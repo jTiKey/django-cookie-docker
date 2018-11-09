@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=vue
+POSTGRES_USER=TAbxhdEtMaVHsKzYktHcLkGdOnMdlBET
+POSTGRES_PASSWORD=ZynnLLiaM40HAThUzMKhzhsyQlwlVahuCjCB28ZAiCL9b02WL69YdHZCZ9mMCpHi
